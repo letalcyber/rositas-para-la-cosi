@@ -28,7 +28,7 @@ body {
   background-image: linear-gradient(#e8e6e5, #7074c3, rgb(172, 25, 25));
   -webkit-background-clip: text;
   color: transparent;
-  font-size: clamp(2.5rem, 5vw, 3.5rem);
+  font-size: clamp(2.5rem, 5vw, 5.5rem);
 }
 .night {
   position: fixed;
@@ -1562,4 +1562,5 @@ body {
   -webkit-animation-play-state: paused !important;
   animation-play-state: paused !important;
 } /*# sourceMappingURL=main.css.map */
+
 
